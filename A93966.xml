@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange and terrible news, from Holland, and Yarmouth. Being, a perfect relation, concerning the inundation of the south sea; and of its drowning the rich and populous city of Amsterdam; with divers other places in Friesland, Holland, Brabant, and Flanders, and the names of them. Also, the over-flowing of the river of Rhine, and sinking 60 parish churches, and drowning 100000 men, women and children; and how they row in boats near Amsterdam, over the tops of houses. Togethek, [sic] with the breaking in of the sea at Soal (near Yarmouth) drowning a great part of the country and many cattle; also casting many ships upon the land, and forcing others to sea in that storm.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93966</idno>
+            <idno type="STC">Wing S5828</idno>
+            <idno type="STC">Thomason E626_3</idno>
+            <idno type="STC">ESTC R206519</idno>
+            <idno type="EEBO-CITATION">99865661</idno>
+            <idno type="PROQUEST">99865661</idno>
+            <idno type="VID">165819</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93966)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165819)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 96:E626[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange and terrible news, from Holland, and Yarmouth. Being, a perfect relation, concerning the inundation of the south sea; and of its drowning the rich and populous city of Amsterdam; with divers other places in Friesland, Holland, Brabant, and Flanders, and the names of them. Also, the over-flowing of the river of Rhine, and sinking 60 parish churches, and drowning 100000 men, women and children; and how they row in boats near Amsterdam, over the tops of houses. Togethek, [sic] with the breaking in of the sea at Soal (near Yarmouth) drowning a great part of the country and many cattle; also casting many ships upon the land, and forcing others to sea in that storm.</title>
+                  <author>Malbone, Peter.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed Robert Wood,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of three letters. The first dated and signed: Amsterdam, March. 10. 1651. G.T.; the second dated and signed: Amsterdam, Feb. 28. 1651. Peter Malbone; the third dated: Yarmouth, March the 6. 1651.</note>
+                  <note>Annotation on Thomason copy: "March. 11", the 51 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Floods --  Europe --  Early works to 1800.</term>
+               <term>Storms --  England --  Early works to 1800.</term>
+               <term>Great Yarmouth (England) --  History --  Early works to 1800.</term>
+               <term>Amsterdam (Netherlands) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165819:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 11 -->
+            <p>Strange and Terrible News, from HOLLAND, AND YARMOUTH. BEING, A Perfect Relation, concerning the Inunda<g ref="char:EOLhyphen"/>tion of the South Sea; And of its drowning the rich and populous City of <hi>Amſterdam;</hi> with di<g ref="char:EOLhyphen"/>vers other places in <hi>Frieſland, Holland, Brabant,</hi> and <hi>Flanders,</hi> and the names of them.</p>
+            <p>ALSO, The Over-flowing of the River of Rhine, and ſink<g ref="char:EOLhyphen"/>ing 60 Pariſh Churches, and drowning 100000 men, women and children; and how they row in Boats near <hi>Amſterdam,</hi> over the tops of houſes.</p>
+            <p>
+               <hi>TOGETHER,</hi> With the Breaking in of the Sea at Soal (near Yar<g ref="char:EOLhyphen"/>mouth) drowning a great part of the Country and ma<g ref="char:EOLhyphen"/>ny Cattle; Alſo caſting many Ships upon the Land, and forcing others to Sea in that ſtorm.</p>
+            <p>LONDON, Printed by <hi>Robert Wood.</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165819:2"/>
+            <!-- PDF PAGE 12 -->
+            <pb n="1" facs="tcp:165819:2"/>
+            <!-- PDF PAGE 12 -->
+            <head>A Perfect Relation, concerning the In-undation of the South Sea; and the drowning of the rich and popu<g ref="char:EOLhyphen"/>lous City of Amſterdam; with di<g ref="char:EOLhyphen"/>vers other places in Holland, Bra<g ref="char:EOLhyphen"/>bant, and Flanders.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>MAn, though he be abſolute in himſelf, and ſtands upon his own Bottom, yet may be wrought upon by examples and com<g ref="char:EOLhyphen"/>pariſons with others; for by that means he may ſee what he is, or what he may be; For events are not ſo confined to any one ſpecial ſub<g ref="char:EOLhyphen"/>ject or Country, but that they may be as inci<g ref="char:EOLhyphen"/>dent to another; and none can plead a freedom to be exempted, whiles our infirmities lay us all open to the Rod of Divine Juſtice; there<g ref="char:EOLhyphen"/>fore, ſince mitigations of puniſhments are new
+<pb n="2" facs="tcp:165819:3"/>
+               <!-- PDF PAGE 13 -->mercies, let our afflictions heighten your thankfulneſs. Sir, on the 5 of March (new ſtile) there happened a mervailous in-undation of waters in this City and in ſeveral other parts of Holland and Frieſland, occaſioned by the over-flowing of the South-Sea, that (to the remembrance of the oldeſt man living) the like hath not been known of in theſe Provinces; I am perſwaded you will have it ſeverally rela<g ref="char:EOLhyphen"/>ted in London, and perhaps ſome will make our miſeries appear greater then they are to the eye of the world; therefore for your ſa<g ref="char:EOLhyphen"/>tisfaction, and the reſt of my good friends, I have endeavoured to ſend you a brief, but true account of the ſtate of that buſineſs.</p>
+            <p>The winde blowing hard Northweſt, cauſed an extraordinary Floud, which at firſt we re<g ref="char:EOLhyphen"/>garded not, but the Winde keeping in that corner, drove the water ſo exceſſively into the City, that it overflowed the Bourgwals, and broke into Cellars and Warehouſes to the ut<g ref="char:EOLhyphen"/>ter ruine of divers people (eſpecially on the South-ſide of the City) who were forced to take to their chambers for refuge; but by the mercy of God, the water breaking through St. Anthony's Dike, preſerved the City, drown<g ref="char:EOLhyphen"/>ing the Diemer-meer, Bildmer-meer, and ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>veral
+<pb n="3" facs="tcp:165819:3"/>
+               <!-- PDF PAGE 13 -->other places, deſtroying men, women, and children, beaſts and Cattle; and had the Wind continued Northweſt 3 hours longer, this Ci<g ref="char:EOLhyphen"/>ty had not ſuffered alone, for Haerlem would have been deſtroyed and waſhed away, and Leyden, Delf, and the Hague, had been alſo endangered; but the winde turning Southweſt they are preſerved, and we hope by Gods bleſſings and our own endeavours, to be ſud<g ref="char:EOLhyphen"/>denly freed. In Brabant the Sea hath likewiſe exceeded his bounds, and deſtroyed two Poul<g ref="char:EOLhyphen"/>ders or In-lands, the one called Ouſterweel, and the other Calou: Alſo Flanders is not free from ſuffering in this kinde, for Albertus Poulder lyes quite under water; And in Frieſ<g ref="char:EOLhyphen"/>land there are ſeveral places deſtroyed, whoſe names we are not yet acquainted with. There are many reported to have loſt their lives in (and about Amſterdam, in) this in-undation, but the certainty of this being not yet known, I have forborn to inſert it; reſolving in my next to give you ample ſatisfaction: Intreat<g ref="char:EOLhyphen"/>ing you to accept of this, from the hand of him, who aſſuredly is;</p>
+            <closer>
+               <dateline>
+                  <hi>Amſterdam, March.</hi> 
+                  <date>10. 1651. <hi>ſtyl. nov.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>SIR, Your faithful honourer,</hi> G. T.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:165819:4"/>
+            <!-- PDF PAGE 14 -->
+            <head>The true Copy of a Letter, ſent by a Gentleman now reſi<g ref="char:EOLhyphen"/>dent in <hi>Amſterdam,</hi> to an <g ref="char:V">Ʋ</g>ncle of his dwelling in <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>MY reſpects remembred, &amp;c. Theſe few lines are to let you underſtand the great judgment of the Lord againſt this Nation; About a Month ſince, the River of Rhine breaking down its banks, the water over-flowed with ſuch violence, that it ſunk 60 Pariſh Chur<g ref="char:EOLhyphen"/>ches. And his anger being not altoge<g ref="char:EOLhyphen"/>ther appeaſed, on the 23 of this month, there happened ſuch an extraordinary ſpring-tide in Amſterdam, that houſe-keepers were driven to betake themſelvs to their chambers, by reaſon of the deepneſs of the waters; but it pleaſed God, that the water forcing its paſ<g ref="char:EOLhyphen"/>ſage through a bank, conveyd the water thorough the City into parts adjacent, by which means we were preſerved,
+<pb n="5" facs="tcp:165819:4"/>
+               <!-- PDF PAGE 14 -->otherwiſe we had undoubtedly periſh<g ref="char:EOLhyphen"/>ed; but the country by that means is ſo over-flowed, that they rowe with their boats over the tops of houſes; Alſo the water ran into Frieſland, in<g ref="char:EOLhyphen"/>ſomuch, that it is ſuppoſed there can<g ref="char:EOLhyphen"/>not be leſs then one hundred thouſand people drowned; Thus deſiring to make an end of theſe my ſad lines, which are neither delightful to write, nor pleaſant to reade; I reſt,</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>
+                  <hi>Yours to command till death:</hi> Peter Malbone.</signed>
+               <dateline>
+                  <hi>Amſterdam,</hi> 
+                  <date>
+                     <hi>Feb.</hi> 28. <hi>ſtyl. vet.</hi> 1651.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:165819:5"/>
+            <!-- PDF PAGE 15 -->
+            <head>The Copy of a Letter from Yarmouth, touch<g ref="char:EOLhyphen"/>ing the Breaking in of the Sea, at Soal-Marſh, and drowning part of the Country.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce my laſt of the 3d inſtant, here hath happened a great and ſudden change, to the great amaze<g ref="char:EOLhyphen"/>ment of the inhabitants in theſe parts, and the im<g ref="char:EOLhyphen"/>poveriſhing of many; the Almighty having been pleaſed once more to chaſtiſe us (as we may juſtly attribute it) for our ſtubborneſs and diſobe<g ref="char:EOLhyphen"/>dience in walking contrary to his Laws and Ordi<g ref="char:EOLhyphen"/>nances, and refuſing to be humbled for our ſins, and to return praiſe and thanks to him for his former mercies, and deliverances, vouchſafed to us the laſt year, when the Sea made inundations in divers pla<g ref="char:EOLhyphen"/>ces, and yet did not much harm: But (about the 5 inſtant) the Sea broke into the Marſhes at Soal (a place not far from this Town) with ſuch violence, that it hath drowned a great part of the Country, and many Cattle; But the Ships that lay at Anchor in the River of Soal, were by this means greatly en<g ref="char:EOLhyphen"/>dangered, ſome breaking their Cables, others (ha<g ref="char:EOLhyphen"/>ving not time to weigh Anchor) cut them, putting out to Sea, yet notwithſtanding there were ſome driven aſhore, but we are uſing all means poſſible to free thoſe Ships, and drein the Marſhes.</p>
+            <closer>
+               <dateline>
+                  <hi>Yarmouth,</hi> 
+                  <date>
+                     <hi>March the</hi> 6. 1651.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
